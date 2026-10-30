@@ -6,7 +6,7 @@ A comprehensive guide and demonstration for setting up a custom multi-VPC archit
 
 ## 📌 Project Overview
 
-This repository documents the implementation of a multi-VPC network infrastructure built for the **EWB Tech Academy AWS Internship Program**. 
+This repository documents the implementation of a multi-VPC network infrastructure built for the **EWB AWS Internship Program**. 
 
 The goal of this project is to demonstrate secure, isolated private communication between instances located in two separate Virtual Private Clouds (**VPC 1** and **VPC 2**) using **AWS VPC Peering**, while maintaining controlled public internet entry via a **Bastion / Jump Host** in a public subnet.
 
@@ -158,4 +158,4 @@ The goal of this project is to demonstrate secure, isolated private communicatio
 - [x] **Jump Host SSH & Ping Verified**.
 
 ---
-*Created as part of the final project submission for EWB Tech Academy Internship.*
+*Created as part of the final project submission for EWB AWS Internship Program.*
